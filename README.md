@@ -3,7 +3,7 @@ This macros simulate progress bars in your power point presentation.
 ![image](https://github.com/user-attachments/assets/0acaca7a-560e-477a-a2bc-c11315dedcc4)
 
 # Languages
-- [Click para Español](https://github.com/JoseChirif/Progress-bar-power-point/blob/main/README%20-%20Espa%C3%B1ol.md)
+- [🇪🇦 Click para Español](https://github.com/JoseChirif/Progress-bar-power-point/blob/main/README%20-%20Espa%C3%B1ol.md)
 
 # Parameters
 Parameters (bars color, border and size) can be modify in the first macro (**InitializeVariables_Bar**)
