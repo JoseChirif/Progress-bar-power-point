@@ -2,8 +2,10 @@
 Estas macros simulan barras de progreso de las diapositivas.
 ![image](https://github.com/user-attachments/assets/0acaca7a-560e-477a-a2bc-c11315dedcc4)
 
-# Idiomas
+## Idiomas
 - [Click to English](https://github.com/JoseChirif/Progress-bar-power-point/blob/main/README.md)
+
+
 
 # Parámetros
 Los parámetros (colores de las barras, bordes y dimensiones) se modifican en la primera macro (**InicializarVariables_Barra**)
