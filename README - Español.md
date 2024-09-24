@@ -1,15 +1,16 @@
 # Barras de progreso power point
 Estas macros simulan barras de progreso de las diapositivas.
-![image](https://github.com/user-attachments/assets/0acaca7a-560e-477a-a2bc-c11315dedcc4)
+![clip](https://github.com/user-attachments/assets/bb046efc-eed0-488c-90c5-8f6f0759c89c)
 
 ## Idiomas
 - [Click to English](https://github.com/JoseChirif/Progress-bar-power-point/blob/main/README.md)
 
+<br>
 
 
 # Parámetros
 Los parámetros (colores de las barras, bordes y dimensiones) se modifican en la primera macro (**InicializarVariables_Barra**)
-![image](https://github.com/user-attachments/assets/692edb8c-2def-4ff1-97df-57e346a20923)
+![image](https://github.com/user-attachments/assets/bb102d23-1d04-487e-8e5f-d3f0a1d35904)
 
 # Macros
 - **DibujarBarrasProgreso**: Dibuja las barras de progreso. Si ya habian barras previas (con esta macro), las borrará antes de dibujar las nuevas.
